@@ -1,0 +1,14 @@
+layout_spectrum: 0.306914
+typography_spectrum: 0.2027422
+color:
+  lightness: 0.6856588
+  brandStrength: 0.09036216
+  saturation: 0.4455248
+  rhythmicContrast: 0.772344
+  brandColors:
+    - '#020202'
+    - '#E8E9F2'
+    - '#0C28A3'
+    - '#7899C6'
+    - '#0C1654'
+name: Osprey-SBA Air
